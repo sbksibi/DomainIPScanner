@@ -19,6 +19,9 @@ Before running the tool, ensure that you have the following installed:
 
 You need to install the `dnspython` package before running the script. To install it, run the following command:
 
+```bash
+pip3 install dnspython
+
 #### RUN
 
     python3 DomainIPScanner.py 192.168.1.10
