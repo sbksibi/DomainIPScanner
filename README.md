@@ -25,7 +25,7 @@ You need to install the `dnspython` package before running the script. To instal
 
 ##### EXAMPLE OUTPUT 
 
-Resolving information for IP: 192.168.1.10
+    Resolving information for IP: 192.168.1.10
 
     Domain Name for IP 192.168.1.10: example.com
     Domain IP Address: 93.184.216.34
