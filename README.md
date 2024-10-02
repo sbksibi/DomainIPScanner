@@ -21,6 +21,7 @@ You need to install the `dnspython` package before running the script. To instal
 
 ```bash
 pip3 install dnspython
+```
 
 #### RUN
 
